@@ -66,7 +66,7 @@ Select an option
 
 ![oath2_2](https://user-images.githubusercontent.com/29549103/152694008-edf13d30-dcd6-496f-8874-44814bea2c67.png)
 
-![oath2_3](https://user-images.githubusercontent.com/29549103/152694012-6087813b-4676-4bcd-ba7a-2a115e5152c4.png)
+![oath2_3](https://user-images.githubusercontent.com/29549103/152694251-517d65c5-2e8e-4fdd-9809-07eb925cea64.jpg)
 
 4. Replace the AUTHORIZATION_CODE variable from 'code' in the redirected url
 
