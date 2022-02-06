@@ -42,13 +42,15 @@ CLIENT_ID = "-----------.apps.googleusercontent.com"
 CLIENT_SECRET = "---------------"
 ```
 
-6. Run the app
+## Usage
+
+1. Run the app
 
 ```bash
 python app.py
 ```
 
-7. Go through each option starting from #1
+2. Go through each option starting from #1
 
 ```python
 Select an option
@@ -58,7 +60,7 @@ Select an option
 3. Send Email
 ```
 
-8. For Option #1 You will go through the following steps on your browser when it generates a URL
+3. For Option #1 You will go through the following steps on your browser when it generates a URL
 
 ![oath2_1](https://user-images.githubusercontent.com/29549103/152693982-8445baee-f90c-4e0b-91d7-c9535caf26c6.jpg)
 
@@ -66,7 +68,7 @@ Select an option
 
 ![oath2_3](https://user-images.githubusercontent.com/29549103/152694012-6087813b-4676-4bcd-ba7a-2a115e5152c4.png)
 
-9. Replace the AUTHORIZATION_CODE variable from 'code' in the redirected url
+4. Replace the AUTHORIZATION_CODE variable from 'code' in the redirected url
 
 ![oath2_4](https://user-images.githubusercontent.com/29549103/152694025-82facf4a-3498-4b69-89fc-579a13acad97.png)
 
@@ -75,10 +77,12 @@ Select an option
 AUTHORIZATION_CODE = ""
 ```
 
-10. Run the app again and select the remaining 2 options
+5. Run the app again and select the remaining 2 options
 
 ```bash
 python app.py
 ```
+
+6. Check your email for the successful result!
 
 ![oath2_5](https://user-images.githubusercontent.com/29549103/152694032-13a67282-b4c2-48a9-8869-466bfed937df.png)
